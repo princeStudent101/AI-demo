@@ -1,2 +1,2 @@
 # AI-demo
-This is a AI best career option in future
+This is a AI for git & github class.
